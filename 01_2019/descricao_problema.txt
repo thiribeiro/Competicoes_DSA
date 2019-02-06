@@ -1,0 +1,20 @@
+Nesta competição seu trabalho será criar um modelo de Machine Learning para prever a ocorrência de doenças.
+
+
+Métrica de Avaliação
+A métrica de avaliação para esta competição é a acurácia.
+
+Ferramenta
+Você pode usar a ferramenta com a qual se sentir mais confortável, mas recomendamos o uso de R, Python, Scala ou Java. Além do arquivo com as previsões, você deve submeter a solução completa que suporte as previsões. Isso pode ser feito enviando um kernel nesta competição.
+
+Formato do Envio da Solução
+Para cada paciente no conjunto de dados, o arquivo com a solução deve conter duas colunas: Id e classe com a previsão feita pelo modelo (0 - não possui a doença / 1 - possui a doença).
+
+O arquivo deve conter um cabeçalho e ter o seguinte formato:
+
+Id,Classe
+1,1
+2,0
+3,0
+4,1
+etc.
