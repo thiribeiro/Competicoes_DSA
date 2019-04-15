@@ -1,4 +1,4 @@
-# Competicoes_DSA
+# DSA_Competitions
 
 Repository with propose solutions to Data Science Academy(DSA) Kaggle Competitions(InClass).
 
